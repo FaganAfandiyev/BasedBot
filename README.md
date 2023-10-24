@@ -11,12 +11,16 @@ BasedApp is an NFT-based social media app. It gathered wallet data and made it p
 ### Dependencies
 
 * Python3
-* Nextcord library from Python
-
+* Nextcord
+* numpy
+* Flask
+* urllib3 
+* pymongo
+* solana-sdk 
 ### Installing
 ```
 * git clone https://github.com/FaganAfandiyev/BasedBot.git
-* pip install nextcord
+* pip install -r requirements.txt
 ```
 ### Executing program
 ```
