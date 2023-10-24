@@ -28,3 +28,7 @@ BasedApp is an NFT-based social media app. It gathered wallet data and made it p
 * python bot.py
 
 ```
+Or if you want it to keep running use these command instead:
+```
+* python keep_alive.py
+```
