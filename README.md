@@ -1,6 +1,6 @@
 # BasedBot
 
-BasedBot is a one-of-a-kind example of a BasedApp bot. T
+BasedBot is a one-of-a-kind example of a BasedApp bot. 
 
 ## Description
 
